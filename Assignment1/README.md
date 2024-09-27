@@ -20,12 +20,12 @@ python run_point_transform.py
 ## Results
 
 ### Basic Transformation
-![[Pasted image 20240927212206.png]]
-![[Pasted image 20240927212248.png]]
+![image](https://github.com/stargazing0987/DIP/blob/master/Assignment1/figures/Pasted%20image%2020240927212206.png)
+![image](https://github.com/stargazing0987/DIP/blob/master/Assignment1/figures/Pasted%20image%2020240927212248.png)
 Flip Horizontal
-![[Pasted image 20240927212309.png]]
+![image](https://github.com/stargazing0987/DIP/blob/master/Assignment1/figures/Pasted%20image%2020240927212309.png)
 
 ### Point Guided Deformation:
-![[Pasted image 20240927211649.png]]
-![[Pasted image 20240927211803.png]]
-![[Pasted image 20240927211846.png]]
+![image](https://github.com/stargazing0987/DIP/blob/master/Assignment1/figures/Pasted%20image%2020240927211649.png)
+![image](https://github.com/stargazing0987/DIP/blob/master/Assignment1/figures/Pasted%20image%2020240927211803.png)
+![image](https://github.com/stargazing0987/DIP/blob/master/Assignment1/figures/Pasted%20image%2020240927211846.png)
