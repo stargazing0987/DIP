@@ -20,12 +20,30 @@ python run_blending_gradio.py
 ## Results
 
 ### Poission Image Editing
-![image](https://github.com/stargazing0987/DIP/blob/master/Assignment1/figures/Pasted%20image%2020240927212206.png)
-![image](https://github.com/stargazing0987/DIP/blob/master/Assignment1/figures/Pasted%20image%2020240927212248.png)
-Flip Horizontal
-![image](https://github.com/stargazing0987/DIP/blob/master/Assignment1/figures/Pasted%20image%2020240927212309.png)
+
+Bear in water:
+
+![image](https://github.com/stargazing0987/DIP/blob/master/Assignment2/figures/BearInWater/result.png)
+
+Equation in scene:
+
+![image](https://github.com/stargazing0987/DIP/blob/master/Assignment2/figures/Equation/result.png)
+
+Monalisa:
+
+![image](https://github.com/stargazing0987/DIP/blob/master/Assignment2/figures/Monalisa/result.png)
+
+Shark with guys:
+
+![image](https://github.com/stargazing0987/DIP/blob/master/Assignment2/figures/Shark/result.png)
+
+You can find the source images and target images in subfolder figures.
 
 ### Pix2Pix
-![image](https://github.com/stargazing0987/DIP/blob/master/Assignment1/figures/Pasted%20image%2020240927211649.png)
-![image](https://github.com/stargazing0987/DIP/blob/master/Assignment1/figures/Pasted%20image%2020240927211803.png)
-![image](https://github.com/stargazing0987/DIP/blob/master/Assignment1/figures/Pasted%20image%2020240927211846.png)
+
+Val_results after epoch 0,epoch 400 and epoch 795:
+
+![image](https://github.com/stargazing0987/DIP/blob/master/Assignment2/Pix2Pix/figures/result.png)
+
+You can find that after epoch 400, the loss doesn't decrease.And the results are not satisfying , that's because the dataset scale is so small to get good results.
+
