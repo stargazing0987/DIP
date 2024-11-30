@@ -48,3 +48,4 @@ How to use the gui :
 3.everytime we are able to use "smile" or "thin face",click "gen points" first to get current feature points.
 
 ## Result
+https://github.com/stargazing0987/DIP/blob/master/Assignment3/Task2/present.mp4
