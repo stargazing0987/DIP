@@ -24,4 +24,8 @@ python train.py
 
 train result
 
+![image](https://github.com/stargazing0987/DIP/blob/master/Assignment3/Task1/train_result.png)
+
 val result
+
+![image](https://github.com/stargazing0987/DIP/blob/master/Assignment3/Task1/val_result.png)
