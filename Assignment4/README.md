@@ -85,4 +85,7 @@ Result after 199 epoch:
 
 Here is the video that shows the outputs of the model towards the dataset:
 
-https://github.com/stargazing0987/DIP/blob/master/Assignment4/result/debug_rendering.mp4
+
+
+https://github.com/user-attachments/assets/daa8f3d3-7f4e-45e1-9fd6-4eeaa754b4db
+
